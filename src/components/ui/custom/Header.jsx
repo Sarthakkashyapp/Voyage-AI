@@ -51,11 +51,11 @@ function Header() {
   };
 
   return (
-    <div className='p-3 shadow-sm flex justify-between items-center px-5 bg-gray-200 gap-2'>
+    <div className='p-3 shadow-sm flex justify-between items-center px-5 bg-gray-200 gap-7'>
       <img src='/Orange.png' className='h-[40px] w-[140px] object-cover rounded-md'/>
       <div >
         { user? (// Conditional rendering based on user state
-          <div className='flex items-center gap-1'>
+          <div className='flex items-center gap-2'>
           <a href='/create-trip'>
             <Button variant="outline"
               className="rounded-full">+ Create Trip</Button>
