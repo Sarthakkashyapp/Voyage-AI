@@ -17,7 +17,7 @@ function Hero() {
         </Link>
       </h1>
     </div>
-      <footer className="bg-gray-400 text-gray-900 text-center py-4 mt-72 sm:mt-66 ">
+      <footer className="bg-gray-300 text-gray-900 text-center py-4 mt-72 sm:mt-66 ">
         <p className="text-sm font-bold font-style: italic flex justify-center gap-2">Created by Sarthak Kashyap <img src="/Thunder.png" className='h-[20px]' /></p>
       </footer>
     </div>
