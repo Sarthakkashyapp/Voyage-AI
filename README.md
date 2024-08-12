@@ -47,8 +47,8 @@ npm start
 <h1>Acknowledgments</h1>
 <h2>ReactJS</h2> - <p>For building the dynamic user interface.</p>
 <h2>TailwindCSS</h2> - <p>For the responsive and modern styling.</p>
-<h2>ShadCN UI</h2> - <p>>For providing beautiful and customizable UI components.</p
-<h2>GEMINI AI</h2> - <p>For powering the AI-driven itinerary and recommendations.</p>
+<h2>ShadCN UI</h2> - <p>For providing beautiful and customizable UI components.</p
+<h2>Gemini AI</h2> - <p>For powering the AI-driven itinerary and recommendations.</p>
 <h2>Firebase</h2> -<p> For managing the backend services.</p>
 <h2>Axios</h2> - <p>For handling API requests with ease.</p>
 
