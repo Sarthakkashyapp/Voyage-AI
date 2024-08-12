@@ -2,10 +2,10 @@
 <p>VOYAGER AI is a web-based AI trip planner that helps users plan their trips by providing hotel recommendations and detailed itineraries based on their budget, travel destination, and duration. The app is built using ReactJS, TailwindCSS, GEMINI AI, Firebase, and Axios.
 </p
   
-<h1>Features</h1>
+<h1>Features :</h1>
 
 <p>Personalized Itineraries: Generate travel itineraries based on the destination, number of days, and budget.
-Hotel Recommendations: Suggests hotels that match the user's budget and preferences.</p
+Hotel Recommendations: Suggests hotels that match the user's budget and preferences.</p>
 <p>User-Friendly Interface: A clean and intuitive UI designed with TailwindCSS.</p>
 <p>Firebase Backend: Manages user data and interactions securely using Firebase.</p>
 <p>Axios for API Requests: Handles communication with external APIs efficiently.
