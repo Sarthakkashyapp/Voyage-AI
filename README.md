@@ -52,6 +52,11 @@ npm start
 <h2>Axios</h2> - <p>For handling API requests with ease.</p>
 <h2>Gemini AI</h2> - <p>For powering the AI-driven itinerary and recommendations.</p>
 
+<h1>Screenshots</h1>
+
+<img src="/public/homepage.png" width="400px"></img> <img src="/public/Generatetrip.png" width="400px"></img> <img  src="/public/Authentication.png" width="400px"></img>
+<img src="/public/viewtrip.png" width="400px"></img> <img src="/public/places.png" width="400px"></img> <img  src="/public/Mytrips.png" width="400px"></img>
+
 
 
 
