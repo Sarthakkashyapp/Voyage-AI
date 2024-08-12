@@ -16,10 +16,10 @@ Hotel Recommendations: Suggests hotels that match the user's budget and preferen
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/voyager-ai.git
+git clone https://github.com/your-username/Voyage-AI.git
 
 # Navigate to the project directory
-cd voyager-ai
+cd Voyage-AI
 
 # Install dependencies
 npm install
