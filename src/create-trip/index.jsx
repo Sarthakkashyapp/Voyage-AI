@@ -59,11 +59,16 @@ function CreateTrip() {
       return;
     }
 
-    if(formData?.noOfDays>5&&!formData?.location||!formData?.budget||!formData?.traveler)
-    {
-      toast("Please fill all the details!")
+    if (formData?.noOfDays > 7) {
+      toast("Nice try, but 7 days is your limit!");
       return;
-    }
+  }
+  
+  if (!formData?.location || !formData?.budget || !formData?.traveler) {
+      toast("Please fill all the details!");
+      return;
+  }
+  
     setLoading(true);
     const FINAL_PROMPT=AI_PROMPT
     .replace('{location}',formData?.location?.label)
