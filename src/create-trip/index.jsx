@@ -64,7 +64,7 @@ function CreateTrip() {
       return;
   }
   
-  if (!formData?.location || !formData?.budget || !formData?.traveler) {
+  if (!formData?.noOfDays||!formData?.location || !formData?.budget || !formData?.traveler) {
       toast("Please fill all the details!");
       return;
   }
