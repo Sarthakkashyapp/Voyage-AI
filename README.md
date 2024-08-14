@@ -36,7 +36,7 @@ VOYAGER AI aims to simplify the travel planning process by leveraging artificial
    ```bash
    npm start
 
-##Configuration
+## Configuration
 - **Firebase**: Ensure your Firebase project is set up and that you've added the appropriate configuration details to the project.
 - **GEMINI AI**: Integrate your GEMINI AI API keys and configure any required settings for generating travel itineraries.
 - **ShadcnUI**: Customize the UI components using ShadcnUI to match the design specifications of your project.
