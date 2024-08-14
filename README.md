@@ -32,18 +32,6 @@ npm start
 <p>Generate Itinerary: VOYAGER AI will provide a detailed itinerary with hotel recommendations tailored to your input.</p>
 <p>Explore and Customize: Review the itinerary and adjust as needed.</p>
 
-<h1>Contributing</h1>
-<p>Contributions are welcome! If you’d like to contribute to VOYAGER AI, please follow these steps:</p>
-
-<ol>
-  <li>Fork the repository.</li>
- <li> Create a new branch (git checkout -b feature-branch).</li>
-  <li>Make your changes.</li>
-  <li>Commit your changes (git commit -m 'Add some feature').</li>
-  <li>Push to the branch (git push origin feature-branch).</li>
-  <li>Open a pull request.</li>
-</ol>
-
 <h1>Acknowledgments</h1>
 <h2>ReactJS</h2> - <p>For building the dynamic user interface.</p>
 <h2>TailwindCSS</h2> - <p>For the responsive and modern styling.</p>
