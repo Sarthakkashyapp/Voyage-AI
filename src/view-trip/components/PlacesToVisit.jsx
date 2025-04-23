@@ -2,6 +2,17 @@ import React from 'react'
 import PlaceCardItem from './PlaceCardItem'
 
 function PlacesToVisit({trip}) {
+
+  const itinerary = trip.tripData?.itinerary;
+
+  if (!Array.isArray(itinerary) || itinerary.length === 0) {
+    return (
+      <div>
+        <h2 className='font-bold text-lg mt-4'>Places to Visit</h2>
+        <p>No itinerary available</p>
+      </div>
+    );
+  }
   return (
     <div>
       <h2 className='font-bold text-lg mt-4'>Places to Visit</h2>
